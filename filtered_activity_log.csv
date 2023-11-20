@@ -1,0 +1,141 @@
+caseID,activity_x,timestamp,duration,other,activity_y
+48,para_to_sent,2023-08-22 16:56:34.666,0.0,5sentences,para_to_sent
+48,sent_to_words,2023-08-22 16:56:34.682,0.0,25words,para_to_sent
+48,choose_words,2023-08-22 16:56:34.682,0.0,1selected words,para_to_sent
+48,form_sentence,2023-08-22 16:56:34.682,0.0,3sentences formed,para_to_sent
+655,para_to_sent,2023-08-22 16:56:34.694,0.0009349999999983,4sentences,para_to_sent
+655,sent_to_words,2023-08-22 16:56:34.694,0.0,20words,para_to_sent
+655,choose_words,2023-08-22 16:56:34.700,0.0009999999999976,6selected words,para_to_sent
+655,form_sentence,2023-08-22 16:56:34.703,0.0019950000000008,2sentences formed,para_to_sent
+261,para_to_sent,2023-08-22 16:56:34.705,0.0,4sentences,para_to_sent
+261,sent_to_words,2023-08-22 16:56:34.709,0.0048659999999998,18words,para_to_sent
+261,choose_words,2023-08-22 16:56:34.711,0.0,9selected words,para_to_sent
+261,form_sentence,2023-08-22 16:56:34.716,0.0022799999999989,5sentences formed,para_to_sent
+487,para_to_sent,2023-08-22 16:56:34.720,0.0044180000000011,4sentences,para_to_sent
+487,sent_to_words,2023-08-22 16:56:34.724,0.0019940000000033,18words,para_to_sent
+487,choose_words,2023-08-22 16:56:34.725,0.0,10selected words,para_to_sent
+487,form_sentence,2023-08-22 16:56:34.731,0.0061530000000047,6sentences formed,para_to_sent
+591,para_to_sent,2023-08-22 16:56:34.734,0.0009969999999981,4sentences,para_to_sent
+591,sent_to_words,2023-08-22 16:56:34.736,0.0,19words,para_to_sent
+591,choose_words,2023-08-22 16:56:34.736,0.0,10selected words,para_to_sent
+591,form_sentence,2023-08-22 16:56:34.742,0.0019999999999953,3sentences formed,para_to_sent
+606,para_to_sent,2023-08-22 16:56:34.746,0.0015199999999992,4sentences,para_to_sent
+606,sent_to_words,2023-08-22 16:56:34.746,0.0,16words,para_to_sent
+606,choose_words,2023-08-22 16:56:34.751,0.0055680000000037,7selected words,para_to_sent
+606,form_sentence,2023-08-22 16:56:34.754,0.0019920000000013,8sentences formed,para_to_sent
+819,para_to_sent,2023-08-22 16:56:34.757,0.0,6sentences,para_to_sent
+819,sent_to_words,2023-08-22 16:56:34.762,0.0058369999999996,8words,para_to_sent
+819,choose_words,2023-08-22 16:56:34.765,0.0009980000000027,8selected words,para_to_sent
+819,form_sentence,2023-08-22 16:56:34.768,0.0008630000000025,10sentences formed,para_to_sent
+82,para_to_sent,2023-08-22 18:37:11.558,0.002326,5sentences,para_to_sent
+82,sent_to_words,2023-08-22 18:37:11.562,0.0016489999999986,25words,para_to_sent
+82,choose_words,2023-08-22 18:37:11.566,0.0009990000000001,3selected words,para_to_sent
+82,form_sentence,2023-08-22 18:37:11.573,0.0039859999999993,10sentences formed,para_to_sent
+377,para_to_sent,2023-08-22 18:37:11.579,0.0019720000000003,4sentences,para_to_sent
+377,sent_to_words,2023-08-22 18:37:11.584,0.0009960000000006,20words,para_to_sent
+377,choose_words,2023-08-22 18:37:11.589,0.0019930000000005,9selected words,para_to_sent
+377,form_sentence,2023-08-22 18:37:11.594,0.002994000000001,2sentences formed,para_to_sent
+864,para_to_sent,2023-08-22 18:37:11.601,0.000990999999999,4sentences,para_to_sent
+864,sent_to_words,2023-08-22 18:37:11.605,0.0010010000000004,18words,para_to_sent
+864,choose_words,2023-08-22 18:37:11.610,0.0019970000000011,1selected words,para_to_sent
+864,form_sentence,2023-08-22 18:37:11.615,0.0019939999999998,6sentences formed,para_to_sent
+92,para_to_sent,2023-08-22 18:37:11.620,0.0009979999999991,4sentences,para_to_sent
+92,sent_to_words,2023-08-22 18:37:11.628,0.0009960000000006,18words,para_to_sent
+92,choose_words,2023-08-22 18:37:11.636,0.0019940000000016,9selected words,para_to_sent
+92,form_sentence,2023-08-22 18:37:11.643,0.0039899999999999,5sentences formed,para_to_sent
+843,para_to_sent,2023-08-22 18:37:11.651,0.002027,4sentences,para_to_sent
+843,sent_to_words,2023-08-22 18:37:11.657,0.0009950000000014,19words,para_to_sent
+843,choose_words,2023-08-22 18:37:11.662,0.0019939999999998,7selected words,para_to_sent
+843,form_sentence,2023-08-22 18:37:11.672,0.0046299999999988,9sentences formed,para_to_sent
+822,para_to_sent,2023-08-22 18:37:11.676,0.0009969999999999,4sentences,para_to_sent
+822,sent_to_words,2023-08-22 18:37:11.683,0.0035410000000002,16words,para_to_sent
+822,choose_words,2023-08-22 18:37:11.689,0.0009969999999999,5selected words,para_to_sent
+822,form_sentence,2023-08-22 18:37:11.693,0.0019919999999995,6sentences formed,para_to_sent
+360,para_to_sent,2023-08-22 18:37:11.701,0.0019939999999998,6sentences,para_to_sent
+360,sent_to_words,2023-08-22 18:37:11.708,0.0009940000000003,8words,para_to_sent
+360,choose_words,2023-08-22 18:37:11.713,0.001994999999999,9selected words,para_to_sent
+360,form_sentence,2023-08-22 18:37:11.722,0.0029850000000006,7sentences formed,para_to_sent
+991,para_to_sent,2023-08-22 20:10:40.221,0.0,5sentences,para_to_sent
+991,sent_to_words,2023-08-22 20:10:40.232,0.0117120000000028,25words,para_to_sent
+991,choose_words,2023-08-22 20:10:40.237,0.0019940000000033,5selected words,para_to_sent
+991,form_sentence,2023-08-22 20:10:40.242,0.0029899999999969,1sentences formed,para_to_sent
+154,para_to_sent,2023-08-22 20:10:40.250,0.0019929999999988,4sentences,para_to_sent
+154,sent_to_words,2023-08-22 20:10:40.255,0.0019940000000033,20words,para_to_sent
+154,choose_words,2023-08-22 20:10:40.261,0.0009969999999981,1selected words,para_to_sent
+154,form_sentence,2023-08-22 20:10:40.266,0.0029930000000035,2sentences formed,para_to_sent
+210,para_to_sent,2023-08-22 20:10:40.271,0.002016999999995,4sentences,para_to_sent
+210,sent_to_words,2023-08-22 20:10:40.278,0.000994999999996,18words,para_to_sent
+210,choose_words,2023-08-22 20:10:40.283,0.0019820000000052,1selected words,para_to_sent
+210,form_sentence,2023-08-22 20:10:40.289,0.0029960000000031,6sentences formed,para_to_sent
+965,para_to_sent,2023-08-22 20:10:40.295,0.0009970000000052,4sentences,para_to_sent
+965,sent_to_words,2023-08-22 20:10:40.299,0.0009990000000001,18words,para_to_sent
+965,choose_words,2023-08-22 20:10:40.304,0.0009999999999976,2selected words,para_to_sent
+965,form_sentence,2023-08-22 20:10:40.312,0.0039860000000047,5sentences formed,para_to_sent
+125,para_to_sent,2023-08-22 20:10:40.317,0.0019959999999983,4sentences,para_to_sent
+125,sent_to_words,2023-08-22 20:10:40.322,0.0019929999999988,19words,para_to_sent
+125,choose_words,2023-08-22 20:10:40.328,0.0010079999999987,3selected words,para_to_sent
+125,form_sentence,2023-08-22 20:10:40.334,0.0029919999999989,6sentences formed,para_to_sent
+517,para_to_sent,2023-08-22 20:10:40.339,0.0009979999999956,4sentences,para_to_sent
+517,sent_to_words,2023-08-22 20:10:40.344,0.0009960000000006,16words,para_to_sent
+517,choose_words,2023-08-22 20:10:40.350,0.0009960000000006,9selected words,para_to_sent
+517,form_sentence,2023-08-22 20:10:40.353,0.0009969999999981,1sentences formed,para_to_sent
+74,para_to_sent,2023-08-22 20:10:40.363,0.0019840000000002,6sentences,para_to_sent
+74,sent_to_words,2023-08-22 20:10:40.368,0.0009990000000001,8words,para_to_sent
+74,choose_words,2023-08-22 20:10:40.373,0.0019959999999983,5selected words,para_to_sent
+74,form_sentence,2023-08-22 20:10:40.380,0.0029919999999989,5sentences formed,para_to_sent
+712,para_to_sent,2023-08-28 22:04:52.161,0.0,5sentences,para_to_sent
+712,sent_to_words,2023-08-28 22:04:52.206,1993999.9999962768,25words,para_to_sent
+712,choose_words,2023-08-28 22:04:52.212,1995999.9999983325,2selected words,para_to_sent
+712,form_sentence,2023-08-28 22:04:52.216,1995000.0000008573,2sentences formed,para_to_sent
+250,para_to_sent,2023-08-28 22:04:52.220,997000.0000052436,4sentences,para_to_sent
+250,sent_to_words,2023-08-28 22:04:52.226,2989999.99999694,20words,para_to_sent
+250,choose_words,2023-08-28 22:04:52.232,2030999.9999952312,9selected words,para_to_sent
+250,form_sentence,2023-08-28 22:04:52.237,2993000.0000035763,9sentences formed,para_to_sent
+238,para_to_sent,2023-08-28 22:04:52.258,992000.0000036566,4sentences,para_to_sent
+238,sent_to_words,2023-08-28 22:04:52.264,1974000.000004139,18words,para_to_sent
+238,choose_words,2023-08-28 22:04:52.268,1902999.999998656,9selected words,para_to_sent
+238,form_sentence,2023-08-28 22:04:52.271,1998000.0000003884,1sentences formed,para_to_sent
+619,para_to_sent,2023-08-28 22:04:52.277,2002999.99999487,4sentences,para_to_sent
+619,sent_to_words,2023-08-28 22:04:52.280,996000.000000663,18words,para_to_sent
+619,choose_words,2023-08-28 22:04:52.283,942000.0000019968,6selected words,para_to_sent
+619,form_sentence,2023-08-28 22:04:52.288,2996000.000003108,9sentences formed,para_to_sent
+15,para_to_sent,2023-08-28 22:04:52.294,997999.9999956136,4sentences,para_to_sent
+15,sent_to_words,2023-08-28 22:04:52.298,998000.0000027188,19words,para_to_sent
+15,choose_words,2023-08-28 22:04:52.302,993999.9999986072,7selected words,para_to_sent
+15,form_sentence,2023-08-28 22:04:52.308,3977999.999996484,4sentences formed,para_to_sent
+812,para_to_sent,2023-08-28 22:04:52.313,998000.0000027188,4sentences,para_to_sent
+812,sent_to_words,2023-08-28 22:04:52.316,999000.0000001942,16words,para_to_sent
+812,choose_words,2023-08-28 22:04:52.320,1995999.9999983325,8selected words,para_to_sent
+812,form_sentence,2023-08-28 22:04:52.326,2987000.0000045137,3sentences formed,para_to_sent
+825,para_to_sent,2023-08-28 22:04:52.331,997000.0000052436,6sentences,para_to_sent
+825,sent_to_words,2023-08-28 22:04:52.334,998000.0000027188,8words,para_to_sent
+825,choose_words,2023-08-28 22:04:52.339,1999000.000004969,7selected words,para_to_sent
+825,form_sentence,2023-08-28 22:04:52.347,3987000.000002183,10sentences formed,para_to_sent
+674,para_to_sent,2023-11-05 12:37:21.186,1992999.9999988012,5sentences,para_to_sent
+674,sent_to_words,2023-11-05 12:37:21.219,999000.0000001942,25words,para_to_sent
+674,choose_words,2023-11-05 12:37:21.222,0.0,3selected words,para_to_sent
+674,form_sentence,2023-11-05 12:37:21.226,1993999.999999829,10sentences formed,para_to_sent
+948,para_to_sent,2023-11-05 12:37:21.229,0.0,4sentences,para_to_sent
+948,sent_to_words,2023-11-05 12:37:21.237,2988999.9999994645,20words,para_to_sent
+948,choose_words,2023-11-05 12:37:21.240,999999.9999976694,5selected words,para_to_sent
+948,form_sentence,2023-11-05 12:37:21.244,2991999.999998996,3sentences formed,para_to_sent
+879,para_to_sent,2023-11-05 12:37:21.250,996000.000000663,4sentences,para_to_sent
+879,sent_to_words,2023-11-05 12:37:21.255,991000.0000026288,18words,para_to_sent
+879,choose_words,2023-11-05 12:37:21.258,997999.9999991662,9selected words,para_to_sent
+879,form_sentence,2023-11-05 12:37:21.266,5986000.000000047,5sentences formed,para_to_sent
+342,para_to_sent,2023-11-05 12:37:21.272,996000.000000663,4sentences,para_to_sent
+342,sent_to_words,2023-11-05 12:37:21.274,0.0,18words,para_to_sent
+342,choose_words,2023-11-05 12:37:21.282,2990999.9999979674,9selected words,para_to_sent
+342,form_sentence,2023-11-05 12:37:21.289,4985999.999998825,5sentences formed,para_to_sent
+474,para_to_sent,2023-11-05 12:37:21.293,803000.0000012195,4sentences,para_to_sent
+474,sent_to_words,2023-11-05 12:37:21.296,997999.9999991662,19words,para_to_sent
+474,choose_words,2023-11-05 12:37:21.301,996000.000000663,5selected words,para_to_sent
+474,form_sentence,2023-11-05 12:37:21.307,2990999.9999979674,6sentences formed,para_to_sent
+925,para_to_sent,2023-11-05 12:37:21.313,1993999.999999829,4sentences,para_to_sent
+925,sent_to_words,2023-11-05 12:37:21.321,3009000.00000226,16words,para_to_sent
+925,choose_words,2023-11-05 12:37:21.324,996999.9999981384,8selected words,para_to_sent
+925,form_sentence,2023-11-05 12:37:21.329,3990000.0000017146,8sentences formed,para_to_sent
+176,para_to_sent,2023-11-05 12:37:21.336,1001000.00000225,6sentences,para_to_sent
+176,sent_to_words,2023-11-05 12:37:21.341,0.0,8words,para_to_sent
+176,choose_words,2023-11-05 12:37:21.345,990999.999999076,10selected words,para_to_sent
+176,form_sentence,2023-11-05 12:37:21.353,5994999.99999864,8sentences formed,para_to_sent
